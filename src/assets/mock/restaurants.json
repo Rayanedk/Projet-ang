@@ -1,12 +1,12 @@
-﻿[
+[
     {
         "id":  27,
         "name":  "Kaolack Kitchen",
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Kaolack",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Kaolack-Kitchen.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  3.7,
         "totalOrders":  1453,
@@ -18,21 +18,21 @@
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  180,
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  181,
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -42,8 +42,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Dakar",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Goree-Grill.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.1,
         "totalOrders":  1496,
@@ -55,21 +55,21 @@
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  177,
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  178,
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -79,8 +79,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Louga",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Louga-Lagoon.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.8,
         "totalOrders":  1386,
@@ -92,21 +92,21 @@
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  183,
                          "name":  "Pastels",
                          "description":  "Beignets farcis au poisson.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Pastels.jpg"
+                         "image":  "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  184,
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -116,8 +116,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Saly",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Saly-Sunset.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.6,
         "totalOrders":  1908,
@@ -129,21 +129,21 @@
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  189,
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  190,
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -153,8 +153,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Saint-Louis",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Saint-Louis-Saveurs.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.8,
         "totalOrders":  825,
@@ -166,21 +166,21 @@
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  11,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  186,
                          "name":  "Pastels",
                          "description":  "Beignets farcis au poisson.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Pastels.jpg"
+                         "image":  "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  187,
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  13,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -190,8 +190,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Rabat",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Rabat-Royal-Tajine.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.6,
         "totalOrders":  1106,
@@ -203,21 +203,21 @@
                          "name":  "Pastilla Poulet",
                          "description":  "Brick croustillante, amandes, cannelle.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Pastilla-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/5409012/pexels-photo-5409012.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  165,
                          "name":  "Tajine Kefta",
                          "description":  "Boulettes boeuf, sauce tomate et oeuf.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Tajine-Kefta.jpg"
+                         "image":  "https://images.pexels.com/photos/7363674/pexels-photo-7363674.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  166,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -227,8 +227,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Ouarzazate",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Ouarzazate-Oasis.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.6,
         "totalOrders":  2016,
@@ -240,21 +240,21 @@
                          "name":  "Pastilla Poulet",
                          "description":  "Brick croustillante, amandes, cannelle.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Pastilla-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/5409012/pexels-photo-5409012.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  162,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  163,
                          "name":  "Tajine Kefta",
                          "description":  "Boulettes boeuf, sauce tomate et oeuf.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Tajine-Kefta.jpg"
+                         "image":  "https://images.pexels.com/photos/7363674/pexels-photo-7363674.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -264,8 +264,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Erfoud",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Sahara-Spicehouse.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.4,
         "totalOrders":  2031,
@@ -277,21 +277,21 @@
                          "name":  "Rfissa",
                          "description":  "Trid, lentilles, poulet parfume.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Rfissa.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  168,
                          "name":  "Pastilla Poulet",
                          "description":  "Brick croustillante, amandes, cannelle.",
                          "price":  13,
-                         "image":  "assets/images/dishes/Pastilla-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/5409012/pexels-photo-5409012.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  169,
                          "name":  "Tajine Kefta",
                          "description":  "Boulettes boeuf, sauce tomate et oeuf.",
                          "price":  13,
-                         "image":  "assets/images/dishes/Tajine-Kefta.jpg"
+                         "image":  "https://images.pexels.com/photos/7363674/pexels-photo-7363674.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -301,8 +301,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Dakar",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Dakar-Delices.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.3,
         "totalOrders":  1030,
@@ -314,21 +314,21 @@
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  174,
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  175,
                          "name":  "Pastels",
                          "description":  "Beignets farcis au poisson.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Pastels.jpg"
+                         "image":  "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -338,8 +338,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Tanger",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Tangier-Tajine-Bar.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.9,
         "totalOrders":  1779,
@@ -351,21 +351,21 @@
                          "name":  "Rfissa",
                          "description":  "Trid, lentilles, poulet parfume.",
                          "price":  23,
-                         "image":  "assets/images/dishes/Rfissa.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  171,
                          "name":  "Pastilla Poulet",
                          "description":  "Brick croustillante, amandes, cannelle.",
                          "price":  11,
-                         "image":  "assets/images/dishes/Pastilla-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/5409012/pexels-photo-5409012.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  172,
                          "name":  "Harira",
                          "description":  "Soupe tomate, pois chiches, coriandre.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Harira.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -375,8 +375,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Kairouan",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Kairouan-Kitchen.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.3,
         "totalOrders":  1343,
@@ -388,21 +388,21 @@
                          "name":  "Ojja Merguez",
                          "description":  "Tomate, harissa douce, merguez.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Ojja-Merguez.jpg"
+                         "image":  "https://images.pexels.com/photos/15828264/pexels-photo-15828264.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  210,
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  211,
                          "name":  "Lablabi",
                          "description":  "Pois chiches, cumin, harissa.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Lablabi.jpg"
+                         "image":  "https://images.pexels.com/photos/6824494/pexels-photo-6824494.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -412,8 +412,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Gabes",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Gabes-Grill.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.7,
         "totalOrders":  1100,
@@ -425,21 +425,21 @@
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  207,
                          "name":  "Couscous Tunisien",
                          "description":  "Agneau, pois chiches, legumes.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Couscous-Tunisien.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  208,
-                         "name":  "Brik a l\u0027Oeuf",
+                         "name":  "Brik a l'Oeuf",
                          "description":  "Feuille malsouka, thon, oeuf coulant.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Brik-a-l\u0027Oeuf.jpg"
+                         "image":  "https://images.pexels.com/photos/6544378/pexels-photo-6544378.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -449,8 +449,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "La Marsa",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/La-Marsa-Lablabi.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.7,
         "totalOrders":  965,
@@ -462,32 +462,32 @@
                          "name":  "Couscous Tunisien",
                          "description":  "Agneau, pois chiches, legumes.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Couscous-Tunisien.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  213,
                          "name":  "Ojja Merguez",
                          "description":  "Tomate, harissa douce, merguez.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Ojja-Merguez.jpg"
+                         "image":  "https://images.pexels.com/photos/15828264/pexels-photo-15828264.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  214,
                          "name":  "Lablabi",
                          "description":  "Pois chiches, cumin, harissa.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Lablabi.jpg"
+                         "image":  "https://images.pexels.com/photos/6824494/pexels-photo-6824494.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  40,
-        "name":  "Tunis Tajine \u0026 Ojja",
+        "name":  "Tunis Tajine & Ojja",
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Tunis",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Tunis-Tajine-\u0026-Ojja.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.6,
         "totalOrders":  1663,
@@ -499,21 +499,21 @@
                          "name":  "Couscous Tunisien",
                          "description":  "Agneau, pois chiches, legumes.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Couscous-Tunisien.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  219,
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  220,
                          "name":  "Lablabi",
                          "description":  "Pois chiches, cumin, harissa.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Lablabi.jpg"
+                         "image":  "https://images.pexels.com/photos/6824494/pexels-photo-6824494.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -523,8 +523,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Sfax",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Sfax-Spice.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.9,
         "totalOrders":  947,
@@ -536,21 +536,21 @@
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  19,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  216,
                          "name":  "Ojja Merguez",
                          "description":  "Tomate, harissa douce, merguez.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Ojja-Merguez.jpg"
+                         "image":  "https://images.pexels.com/photos/15828264/pexels-photo-15828264.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  217,
                          "name":  "Lablabi",
                          "description":  "Pois chiches, cumin, harissa.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Lablabi.jpg"
+                         "image":  "https://images.pexels.com/photos/6824494/pexels-photo-6824494.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -560,8 +560,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Ziguinchor",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Ziguinchor-Zest.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.7,
         "totalOrders":  2004,
@@ -573,21 +573,21 @@
                          "name":  "Thiof Braise",
                          "description":  "Poisson braise, sauce oignons.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Thiof-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  195,
                          "name":  "Pastels",
                          "description":  "Beignets farcis au poisson.",
                          "price":  19,
-                         "image":  "assets/images/dishes/Pastels.jpg"
+                         "image":  "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  196,
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -597,8 +597,8 @@
         "country":  "Senegal",
         "countryCode":  "SN",
         "city":  "Thies",
-        "description":  "Senegal flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Thies-Thieb.jpg",
+        "description":  "Senegal flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.4,
         "totalOrders":  1430,
@@ -610,21 +610,21 @@
                          "name":  "Pastels",
                          "description":  "Beignets farcis au poisson.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Pastels.jpg"
+                         "image":  "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  192,
                          "name":  "Yassa Poulet",
                          "description":  "Poulet citron, oignons confits.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Yassa-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  193,
                          "name":  "Thieboudienne",
                          "description":  "Riz au poisson, legumes, tomate.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Thieboudienne.jpg"
+                         "image":  "https://images.pexels.com/photos/4871117/pexels-photo-4871117.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -634,8 +634,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Bizerte",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Bizerte-Brik.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.5,
         "totalOrders":  1221,
@@ -647,21 +647,21 @@
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  198,
                          "name":  "Ojja Merguez",
                          "description":  "Tomate, harissa douce, merguez.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Ojja-Merguez.jpg"
+                         "image":  "https://images.pexels.com/photos/15828264/pexels-photo-15828264.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  199,
                          "name":  "Couscous Tunisien",
                          "description":  "Agneau, pois chiches, legumes.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Couscous-Tunisien.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -671,8 +671,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Djerba",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Djerba-Dunes.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.3,
         "totalOrders":  1155,
@@ -684,21 +684,21 @@
                          "name":  "Lablabi",
                          "description":  "Pois chiches, cumin, harissa.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Lablabi.jpg"
+                         "image":  "https://images.pexels.com/photos/6824494/pexels-photo-6824494.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  204,
-                         "name":  "Brik a l\u0027Oeuf",
+                         "name":  "Brik a l'Oeuf",
                          "description":  "Feuille malsouka, thon, oeuf coulant.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Brik-a-l\u0027Oeuf.jpg"
+                         "image":  "https://images.pexels.com/photos/6544378/pexels-photo-6544378.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  205,
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -708,8 +708,8 @@
         "country":  "Tunisia",
         "countryCode":  "TN",
         "city":  "Carthage",
-        "description":  "Tunisia flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Carthage-Couscous.jpg",
+        "description":  "Tunisia flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4,
         "totalOrders":  806,
@@ -721,21 +721,21 @@
                          "name":  "Mechoui",
                          "description":  "Agneau roti, epices douces.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Mechoui.jpg"
+                         "image":  "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  201,
-                         "name":  "Brik a l\u0027Oeuf",
+                         "name":  "Brik a l'Oeuf",
                          "description":  "Feuille malsouka, thon, oeuf coulant.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Brik-a-l\u0027Oeuf.jpg"
+                         "image":  "https://images.pexels.com/photos/6544378/pexels-photo-6544378.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  202,
                          "name":  "Ojja Merguez",
                          "description":  "Tomate, harissa douce, merguez.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Ojja-Merguez.jpg"
+                         "image":  "https://images.pexels.com/photos/15828264/pexels-photo-15828264.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -745,8 +745,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Buea",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Mount-Fako-Feast.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.9,
         "totalOrders":  779,
@@ -758,21 +758,21 @@
                          "name":  "Poulet DG",
                          "description":  "Poulet braise, plantain et legumes sautes.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Poulet-DG.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  120,
                          "name":  "Ekwang",
                          "description":  "Taro rape, huile rouge, crevettes fumees.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Ekwang.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  121,
                          "name":  "Ndole",
-                         "description":  "Feuilles d\u0027oseille, arachide, crevettes fumees.",
+                         "description":  "Feuilles d'oseille, arachide, crevettes fumees.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Ndole.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -782,8 +782,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Limbe",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Limbe-Lagoon.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.4,
         "totalOrders":  1378,
@@ -793,23 +793,23 @@
                      {
                          "id":  116,
                          "name":  "Ndole",
-                         "description":  "Feuilles d\u0027oseille, arachide, crevettes fumees.",
+                         "description":  "Feuilles d'oseille, arachide, crevettes fumees.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Ndole.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  117,
                          "name":  "Mbongo Tchobi",
                          "description":  "Poisson sauce noire aux epices.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Mbongo-Tchobi.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  118,
                          "name":  "Soja Braise",
                          "description":  "Brochettes de boeuf epicees.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Soja-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -819,8 +819,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Yaounde",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Ndole-Nook.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.4,
         "totalOrders":  1417,
@@ -830,34 +830,34 @@
                      {
                          "id":  122,
                          "name":  "Ndole",
-                         "description":  "Feuilles d\u0027oseille, arachide, crevettes fumees.",
+                         "description":  "Feuilles d'oseille, arachide, crevettes fumees.",
                          "price":  11,
-                         "image":  "assets/images/dishes/Ndole.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  123,
                          "name":  "Koki",
-                         "description":  "Gateau de haricot cornille a l\u0027huile rouge.",
+                         "description":  "Gateau de haricot cornille a l'huile rouge.",
                          "price":  23,
-                         "image":  "assets/images/dishes/Koki.jpg"
+                         "image":  "https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  124,
                          "name":  "Ekwang",
                          "description":  "Taro rape, huile rouge, crevettes fumees.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Ekwang.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  10,
         "name":  "Alloco Atelier",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Abidjan",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Alloco-Atelier.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.4,
         "totalOrders":  1672,
@@ -869,32 +869,32 @@
                          "name":  "Sauce Graine",
                          "description":  "Sauce noix de palme, viande fumee.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Sauce-Graine.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  129,
                          "name":  "Kedjenou Poulet",
                          "description":  "Poulet mijote en canari.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Kedjenou-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  130,
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  9,
         "name":  "Abidjan Attieke",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Abidjan",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Abidjan-Attieke.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  3.6,
         "totalOrders":  1214,
@@ -906,21 +906,21 @@
                          "name":  "Kedjenou Poulet",
                          "description":  "Poulet mijote en canari.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Kedjenou-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  126,
                          "name":  "Soupe Poisson",
                          "description":  "Bouillon releve, poisson frais.",
                          "price":  11,
-                         "image":  "assets/images/dishes/Soupe-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  127,
                          "name":  "Alloco",
                          "description":  "Banane plantain frite, sauce pimentee.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Alloco.jpg"
+                         "image":  "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -930,8 +930,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Douala",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Bassa-Breeze.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.1,
         "totalOrders":  1432,
@@ -941,23 +941,23 @@
                      {
                          "id":  104,
                          "name":  "Eru",
-                         "description":  "Feuilles d\u0027okok, viande fumee, water-fufu.",
+                         "description":  "Feuilles d'okok, viande fumee, water-fufu.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Eru.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  105,
                          "name":  "Ndole",
-                         "description":  "Feuilles d\u0027oseille, arachide, crevettes fumees.",
+                         "description":  "Feuilles d'oseille, arachide, crevettes fumees.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Ndole.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  106,
                          "name":  "Soja Braise",
                          "description":  "Brochettes de boeuf epicees.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Soja-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -967,8 +967,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Bamenda",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Abakwa-Grill.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  3.7,
         "totalOrders":  1299,
@@ -978,23 +978,23 @@
                      {
                          "id":  101,
                          "name":  "Eru",
-                         "description":  "Feuilles d\u0027okok, viande fumee, water-fufu.",
+                         "description":  "Feuilles d'okok, viande fumee, water-fufu.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Eru.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  102,
                          "name":  "Koki",
-                         "description":  "Gateau de haricot cornille a l\u0027huile rouge.",
+                         "description":  "Gateau de haricot cornille a l'huile rouge.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Koki.jpg"
+                         "image":  "https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  103,
                          "name":  "Ekwang",
                          "description":  "Taro rape, huile rouge, crevettes fumees.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Ekwang.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1004,8 +1004,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Douala",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Douala-Dishes.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.4,
         "totalOrders":  742,
@@ -1017,21 +1017,21 @@
                          "name":  "Ekwang",
                          "description":  "Taro rape, huile rouge, crevettes fumees.",
                          "price":  22,
-                         "image":  "assets/images/dishes/Ekwang.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  108,
                          "name":  "Soja Braise",
                          "description":  "Brochettes de boeuf epicees.",
                          "price":  21,
-                         "image":  "assets/images/dishes/Soja-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  109,
                          "name":  "Koki",
-                         "description":  "Gateau de haricot cornille a l\u0027huile rouge.",
+                         "description":  "Gateau de haricot cornille a l'huile rouge.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Koki.jpg"
+                         "image":  "https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1041,8 +1041,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Kribi",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Kribi-Cove.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.9,
         "totalOrders":  904,
@@ -1054,21 +1054,21 @@
                          "name":  "Poulet DG",
                          "description":  "Poulet braise, plantain et legumes sautes.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Poulet-DG.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  114,
                          "name":  "Soja Braise",
                          "description":  "Brochettes de boeuf epicees.",
                          "price":  21,
-                         "image":  "assets/images/dishes/Soja-Braise.jpg"
+                         "image":  "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  115,
                          "name":  "Ekwang",
                          "description":  "Taro rape, huile rouge, crevettes fumees.",
                          "price":  13,
-                         "image":  "assets/images/dishes/Ekwang.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1078,8 +1078,8 @@
         "country":  "Cameroon",
         "countryCode":  "CM",
         "city":  "Buea",
-        "description":  "Cameroon flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Fako-Flame.jpg",
+        "description":  "Cameroon flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.9,
         "totalOrders":  1268,
@@ -1091,21 +1091,21 @@
                          "name":  "Mbongo Tchobi",
                          "description":  "Poisson sauce noire aux epices.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Mbongo-Tchobi.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  111,
                          "name":  "Eru",
-                         "description":  "Feuilles d\u0027okok, viande fumee, water-fufu.",
+                         "description":  "Feuilles d'okok, viande fumee, water-fufu.",
                          "price":  20,
-                         "image":  "assets/images/dishes/Eru.jpg"
+                         "image":  "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  112,
                          "name":  "Poulet DG",
                          "description":  "Poulet braise, plantain et legumes sautes.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Poulet-DG.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1115,8 +1115,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Fes",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Atlas-Aromes.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  3.6,
         "totalOrders":  1401,
@@ -1128,32 +1128,32 @@
                          "name":  "Rfissa",
                          "description":  "Trid, lentilles, poulet parfume.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Rfissa.jpg"
+                         "image":  "https://images.pexels.com/photos/8477834/pexels-photo-8477834.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  150,
                          "name":  "Tajine Poulet Citron",
                          "description":  "Poulet fermier, citron confit, olives.",
                          "price":  17,
-                         "image":  "assets/images/dishes/Tajine-Poulet-Citron.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  151,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  23,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  16,
         "name":  "Yamoussoukro Yassa",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Yamoussoukro",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Yamoussoukro-Yassa.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.8,
         "totalOrders":  1451,
@@ -1165,21 +1165,21 @@
                          "name":  "Soupe Poisson",
                          "description":  "Bouillon releve, poisson frais.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Soupe-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  147,
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  21,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  148,
                          "name":  "Alloco",
                          "description":  "Banane plantain frite, sauce pimentee.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Alloco.jpg"
+                         "image":  "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1189,8 +1189,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Casablanca",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Casablanca-Couscous.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.1,
         "totalOrders":  863,
@@ -1202,21 +1202,21 @@
                          "name":  "Tajine Poulet Citron",
                          "description":  "Poulet fermier, citron confit, olives.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Tajine-Poulet-Citron.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  153,
                          "name":  "Harira",
                          "description":  "Soupe tomate, pois chiches, coriandre.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Harira.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  154,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  16,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1226,8 +1226,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Marrakech",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Marrakech-Medina-Table.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  3.9,
         "totalOrders":  836,
@@ -1239,21 +1239,21 @@
                          "name":  "Harira",
                          "description":  "Soupe tomate, pois chiches, coriandre.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Harira.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  159,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  13,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  160,
                          "name":  "Tajine Poulet Citron",
                          "description":  "Poulet fermier, citron confit, olives.",
                          "price":  26,
-                         "image":  "assets/images/dishes/Tajine-Poulet-Citron.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
@@ -1263,8 +1263,8 @@
         "country":  "Morocco",
         "countryCode":  "MA",
         "city":  "Fes",
-        "description":  "Morocco flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Fes-Feasts.jpg",
+        "description":  "Morocco flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.8,
         "totalOrders":  1385,
@@ -1276,32 +1276,32 @@
                          "name":  "Tajine Kefta",
                          "description":  "Boulettes boeuf, sauce tomate et oeuf.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Tajine-Kefta.jpg"
+                         "image":  "https://images.pexels.com/photos/7363674/pexels-photo-7363674.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  156,
                          "name":  "Couscous Royal",
                          "description":  "Semoule, agneau, merguez, legumes.",
                          "price":  14,
-                         "image":  "assets/images/dishes/Couscous-Royal.jpg"
+                         "image":  "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  157,
                          "name":  "Tajine Poulet Citron",
                          "description":  "Poulet fermier, citron confit, olives.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Tajine-Poulet-Citron.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  12,
         "name":  "Garba Gourmand",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Abidjan",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Garba-Gourmand.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.9,
         "totalOrders":  1060,
@@ -1313,32 +1313,32 @@
                          "name":  "Soupe Poisson",
                          "description":  "Bouillon releve, poisson frais.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Soupe-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  135,
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  136,
                          "name":  "Sauce Graine",
                          "description":  "Sauce noix de palme, viande fumee.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Sauce-Graine.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  11,
         "name":  "Bouake Bites",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Bouake",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Bouake-Bites.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  true,
         "rating":  4.2,
         "totalOrders":  1367,
@@ -1350,32 +1350,32 @@
                          "name":  "Sauce Graine",
                          "description":  "Sauce noix de palme, viande fumee.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Sauce-Graine.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  132,
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  133,
                          "name":  "Garba Thon",
                          "description":  "Attieke street-food au thon frit.",
                          "price":  15,
-                         "image":  "assets/images/dishes/Garba-Thon.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  13,
         "name":  "Kedjenou Kitchen",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Yamoussoukro",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Kedjenou-Kitchen.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.8,
         "totalOrders":  856,
@@ -1387,32 +1387,32 @@
                          "name":  "Garba Thon",
                          "description":  "Attieke street-food au thon frit.",
                          "price":  25,
-                         "image":  "assets/images/dishes/Garba-Thon.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  138,
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  139,
                          "name":  "Alloco",
                          "description":  "Banane plantain frite, sauce pimentee.",
                          "price":  12,
-                         "image":  "assets/images/dishes/Alloco.jpg"
+                         "image":  "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  15,
         "name":  "San Pedro Spice",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "San Pedro",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/San-Pedro-Spice.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.6,
         "totalOrders":  750,
@@ -1424,32 +1424,32 @@
                          "name":  "Attieke Poisson",
                          "description":  "Semoule de manioc, poisson braise.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Attieke-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  144,
                          "name":  "Alloco",
                          "description":  "Banane plantain frite, sauce pimentee.",
                          "price":  9,
-                         "image":  "assets/images/dishes/Alloco.jpg"
+                         "image":  "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  145,
                          "name":  "Soupe Poisson",
                          "description":  "Bouillon releve, poisson frais.",
                          "price":  10,
-                         "image":  "assets/images/dishes/Soupe-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     },
     {
         "id":  14,
         "name":  "Man Mango House",
-        "country":  "Cote d\u0027Ivoire",
+        "country":  "Cote d'Ivoire",
         "countryCode":  "CI",
         "city":  "Man",
-        "description":  "Cote d\u0027Ivoire flavors \u0026 specialites locales.",
-        "image":  "assets/images/restaurants/Man-Mango-House.jpg",
+        "description":  "Cote d'Ivoire flavors & specialites locales.",
+        "image":  "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
         "featured":  false,
         "rating":  4.1,
         "totalOrders":  1462,
@@ -1461,21 +1461,21 @@
                          "name":  "Kedjenou Poulet",
                          "description":  "Poulet mijote en canari.",
                          "price":  18,
-                         "image":  "assets/images/dishes/Kedjenou-Poulet.jpg"
+                         "image":  "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  141,
                          "name":  "Soupe Poisson",
                          "description":  "Bouillon releve, poisson frais.",
                          "price":  23,
-                         "image":  "assets/images/dishes/Soupe-Poisson.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      },
                      {
                          "id":  142,
                          "name":  "Sauce Graine",
                          "description":  "Sauce noix de palme, viande fumee.",
                          "price":  24,
-                         "image":  "assets/images/dishes/Sauce-Graine.jpg"
+                         "image":  "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=800"
                      }
                  ]
     }

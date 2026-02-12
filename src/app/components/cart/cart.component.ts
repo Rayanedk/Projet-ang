@@ -29,6 +29,16 @@ export class CartComponent {
     this.orders.updateQty(dishId, qty);
   }
 
+  incrementQty(dishId: number, currentQty: number): void {
+    this.orders.updateQty(dishId, currentQty + 1);
+  }
+
+  decrementQty(dishId: number, currentQty: number): void {
+    if (currentQty > 1) {
+      this.orders.updateQty(dishId, currentQty - 1);
+    }
+  }
+
   confirm(): void {
     if (!this.auth.isLoggedIn()) {
       this.dialog.open(LoginDialogComponent, { width: '420px' });
