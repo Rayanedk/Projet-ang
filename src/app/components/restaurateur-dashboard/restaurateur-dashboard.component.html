@@ -1,0 +1,48 @@
+<section class="section" *ngIf="restaurant">
+  <div class="card">
+    <h3>{{ restaurant.name }}</h3>
+    <p>{{ restaurant.description }}</p>
+    <div class="tags">
+      <span class="chip">{{ restaurant.cuisine }}</span>
+      <span class="chip">⭐ {{ restaurant.rating }}</span>
+      <span class="chip">{{ restaurant.deliveryTime }}</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Menu</h3>
+    <mat-list>
+      <mat-list-item *ngFor="let dish of menu">
+        <div mat-line>{{ dish.name }} — {{ dish.price | currency }}</div>
+        <div mat-line class="muted">{{ dish.category }}</div>
+      </mat-list-item>
+    </mat-list>
+  </div>
+
+  <div class="card">
+    <h3>Recent Orders (mock)</h3>
+    <div *ngIf="orders.length; else empty">
+      <mat-table [dataSource]="orders">
+        <ng-container matColumnDef="id">
+          <mat-header-cell *matHeaderCellDef>#</mat-header-cell>
+          <mat-cell *matCellDef="let o">{{ o.id }}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="total">
+          <mat-header-cell *matHeaderCellDef>Total</mat-header-cell>
+          <mat-cell *matCellDef="let o">{{ o.total | currency }}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="status">
+          <mat-header-cell *matHeaderCellDef>Status</mat-header-cell>
+          <mat-cell *matCellDef="let o">{{ o.status }}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="date">
+          <mat-header-cell *matHeaderCellDef>Date</mat-header-cell>
+          <mat-cell *matCellDef="let o">{{ o.createdAt | date:'short' }}</mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="['id','total','status','date']"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: ['id','total','status','date'];"></mat-row>
+      </mat-table>
+    </div>
+    <ng-template #empty><p>No orders.</p></ng-template>
+  </div>
+</section>

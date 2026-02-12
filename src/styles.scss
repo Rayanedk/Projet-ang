@@ -1,0 +1,52 @@
+@use '@angular/material' as mat;
+@include mat.core();
+
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Inter', system-ui, -apple-system, sans-serif;
+  background: #f5f1e8;
+  color: #1e1e1e;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+mat-card {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+}
+
+mat-table {
+  width: 100%;
+}
+
+button.mat-flat-button,
+button.mat-stroked-button,
+button.mat-icon-button {
+  border-radius: 14px;
+  text-transform: none;
+  font-weight: 600;
+}
+
+mat-icon {
+  font-variation-settings: 'FILL' 0, 'wght' 600, 'GRAD' 0, 'opsz' 24;
+}
+
+/* cart badge style inspired by provided mock */
+:host ::ng-deep .mat-badge-content {
+  background: #d7263d !important;
+  color: #fff !important;
+  font-weight: 800;
+  font-size: 11px;
+  line-height: 18px;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 999px;
+  box-shadow: 0 6px 12px rgba(215, 38, 61, 0.35);
+  top: -6px !important;
+  right: -6px !important;
+}

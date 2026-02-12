@@ -1,0 +1,21 @@
+<nav class="navbar">
+  <div class="nav-left" (click)="go('/')">Les Délices d'Afriques</div>
+
+  <div class="nav-center">
+    <a routerLink="/catalogue" routerLinkActive="active">Catalogue</a>
+  </div>
+
+  <div class="nav-right">
+    <button mat-icon-button
+            [matBadge]="cartCount"
+            matBadgeColor="warn"
+            matBadgeHidden="cartCount === 0"
+            matBadgeSize="small"
+            (click)="go('/cart')">
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+    <button mat-icon-button (click)="go('/login')">
+      <mat-icon>person</mat-icon>
+    </button>
+  </div>
+</nav>

@@ -1,0 +1,13 @@
+[
+  { "id": 101, "restaurantId": 1, "name": "Citrus Salmon", "description": "Charred lemon, fennel salad", "price": 18.5, "category": "Mains", "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836" },
+  { "id": 102, "restaurantId": 1, "name": "Sea Salt Fries", "description": "Herb aioli", "price": 6.0, "category": "Sides", "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe" },
+  { "id": 103, "restaurantId": 1, "name": "Garden Quinoa", "description": "Roasted vegetables, citrus vinaigrette", "price": 12.0, "category": "Bowls", "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836" },
+
+  { "id": 201, "restaurantId": 2, "name": "Dragon Roll", "description": "Tempura shrimp, avocado, eel sauce", "price": 14.0, "category": "Sushi", "image": "https://images.unsplash.com/photo-1544378730-8b14d1a3a1c6" },
+  { "id": 202, "restaurantId": 2, "name": "Shoyu Ramen", "description": "Slow braised pork, shoyu broth", "price": 13.0, "category": "Noodles", "image": "https://images.unsplash.com/photo-1585238341986-43c91ad3f2c7" },
+  { "id": 203, "restaurantId": 2, "name": "Gyoza", "description": "Pan-fried dumplings", "price": 7.0, "category": "Starters", "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85" },
+
+  { "id": 301, "restaurantId": 3, "name": "Margherita Pizza", "description": "San Marzano, basil, fior di latte", "price": 12.0, "category": "Pizza", "image": "https://images.unsplash.com/photo-1548369937-47519962c11a" },
+  { "id": 302, "restaurantId": 3, "name": "Cacio e Pepe", "description": "Tonnarelli, pecorino, black pepper", "price": 14.0, "category": "Pasta", "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e" },
+  { "id": 303, "restaurantId": 3, "name": "Tiramisu", "description": "Espresso-soaked ladyfingers, mascarpone", "price": 8.0, "category": "Dessert", "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40" }
+]

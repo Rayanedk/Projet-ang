@@ -1,0 +1,23 @@
+<section class="section" *ngIf="user">
+  <div class="card profile">
+    <h3>Profile</h3>
+    <p><strong>Name:</strong> {{ user.name }}</p>
+    <p><strong>Email:</strong> {{ user.email }}</p>
+    <p><strong>Role:</strong> {{ user.role }}</p>
+  </div>
+
+  <div class="card">
+    <h3>Order History</h3>
+    <div *ngIf="orders.length; else empty">
+      <mat-list>
+        <mat-list-item *ngFor="let o of orders">
+          <div mat-line>{{ o.restaurant }}</div>
+          <div mat-line class="meta">Total {{ o.total | currency }} • {{ o.status }} • {{ o.createdAt | date:'short' }}</div>
+        </mat-list-item>
+      </mat-list>
+    </div>
+    <ng-template #empty>
+      <p>No orders yet.</p>
+    </ng-template>
+  </div>
+</section>

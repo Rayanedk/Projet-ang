@@ -1,0 +1,39 @@
+.board {
+  margin-bottom: 20px;
+}
+
+.board h2 {
+  font-family: 'Playfair Display', serif;
+  margin: 0 0 12px;
+}
+
+.order-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.id {
+  font-weight: 700;
+}
+
+.meta {
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.status {
+  color: #0b6e4f;
+  font-weight: 700;
+}
+
+.delivered mat-card {
+  border: 1px solid rgba(11, 110, 79, 0.15);
+}

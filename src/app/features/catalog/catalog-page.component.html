@@ -1,0 +1,17 @@
+<section class="filters">
+  <button mat-stroked-button [class.active]="activeCountry() === 'ALL'" (click)="selectCountry('ALL')">
+    Tous
+  </button>
+  <button
+    *ngFor="let c of countries()"
+    mat-stroked-button
+    [class.active]="activeCountry() === c.code"
+    (click)="selectCountry(c.code)">
+    <img [src]="flag(c.code)" [alt]="c.label" />
+    {{ c.label }}
+  </button>
+</section>
+
+<section class="grid">
+  <app-restaurant-card *ngFor="let r of filtered()" [restaurant]="r"></app-restaurant-card>
+</section>

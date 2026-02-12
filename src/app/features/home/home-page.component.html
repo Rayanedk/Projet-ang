@@ -1,0 +1,38 @@
+<section class="hero">
+  <div class="hero-copy">
+    <h1>Voyagez à travers les saveurs authentiques d’Afrique</h1>
+    <p>Découvrez des restaurants sélectionnés avec soin, des plats raffinés et une expérience premium aux couleurs du continent.</p>
+    <div class="cta">
+      <button mat-flat-button color="primary" routerLink="/catalogue">Découvrir notre catalogue</button>
+    </div>
+  </div>
+  <div class="hero-visual">
+    <div class="africa"></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Restaurants en vedette</h2>
+    <button mat-stroked-button color="primary" routerLink="/catalogue">Découvrir notre catalogue</button>
+  </div>
+  <div class="card-row">
+    <app-restaurant-card *ngFor="let r of featured()" [restaurant]="r"></app-restaurant-card>
+  </div>
+  <div class="section-foot">
+    <button mat-flat-button color="primary" routerLink="/catalogue">Découvrir notre catalogue</button>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Nouveaux restaurants</h2>
+    <button mat-stroked-button color="primary" routerLink="/catalogue">Découvrir notre catalogue</button>
+  </div>
+  <div class="card-row">
+    <app-restaurant-card *ngFor="let r of newest()" [restaurant]="r"></app-restaurant-card>
+  </div>
+  <div class="section-foot">
+    <button mat-flat-button color="primary" routerLink="/catalogue">Découvrir notre catalogue</button>
+  </div>
+</section>

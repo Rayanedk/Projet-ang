@@ -1,0 +1,31 @@
+<section class="board">
+  <h2>Commandes à livrer</h2>
+  <div class="order-grid">
+    <mat-card *ngFor="let o of pending()">
+      <div class="row">
+        <div>
+          <div class="id">#{{ o.id }}</div>
+          <div class="meta">{{ o.restaurant }} • {{ o.clientName }}</div>
+          <div class="meta">{{ o.address }}</div>
+        </div>
+        <button mat-flat-button color="primary" (click)="markDelivered(o.id)">Confirmer la livraison</button>
+      </div>
+    </mat-card>
+  </div>
+</section>
+
+<section class="board">
+  <h2>Livrées</h2>
+  <div class="order-grid delivered">
+    <mat-card *ngFor="let o of delivered()">
+      <div class="row">
+        <div>
+          <div class="id">#{{ o.id }}</div>
+          <div class="meta">{{ o.restaurant }} • {{ o.clientName }}</div>
+          <div class="meta">{{ o.address }}</div>
+        </div>
+        <span class="status">Livrée</span>
+      </div>
+    </mat-card>
+  </div>
+</section>

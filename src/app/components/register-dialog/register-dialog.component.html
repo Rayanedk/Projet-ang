@@ -1,0 +1,26 @@
+<h2 mat-dialog-title>Create Account</h2>
+<mat-dialog-content [formGroup]="form">
+  <mat-form-field appearance="outline" class="full">
+    <mat-label>Name</mat-label>
+    <input matInput formControlName="name" />
+  </mat-form-field>
+  <mat-form-field appearance="outline" class="full">
+    <mat-label>Email</mat-label>
+    <input matInput formControlName="email" />
+  </mat-form-field>
+  <mat-form-field appearance="outline" class="full">
+    <mat-label>Password</mat-label>
+    <input matInput type="password" formControlName="password" />
+  </mat-form-field>
+  <mat-form-field appearance="outline" class="full">
+    <mat-label>Role</mat-label>
+    <mat-select formControlName="role">
+      <mat-option value="CLIENT">Client</mat-option>
+      <mat-option value="RESTAURATEUR">Restaurateur</mat-option>
+    </mat-select>
+  </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-stroked-button mat-dialog-close>Cancel</button>
+  <button mat-flat-button color="primary" (click)="submit()">Register</button>
+</mat-dialog-actions>

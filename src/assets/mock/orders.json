@@ -1,0 +1,6 @@
+[
+  { "id": 9001, "userId": 1, "clientName": "Alice Client", "address": "Dakar Plateau", "restaurant": "Sunset Bistro", "total": 42.5, "status": "Delivered", "createdAt": "2026-02-01T18:30:00Z" },
+  { "id": 9002, "userId": 1, "clientName": "Alice Client", "address": "Abidjan Cocody", "restaurant": "Sakura Nori", "total": 28.0, "status": "Preparing", "createdAt": "2026-02-08T12:10:00Z" },
+  { "id": 9003, "userId": 2, "clientName": "Bob Chef", "address": "Casablanca Maarif", "restaurant": "Sunset Bistro", "total": 65.0, "status": "Delivered", "createdAt": "2026-01-27T19:45:00Z" },
+  { "id": 9004, "userId": 4, "clientName": "Lamine Livreur", "address": "Dakar Yoff", "restaurant": "Trattoria Lume", "total": 35.0, "status": "Pending", "createdAt": "2026-02-10T14:05:00Z" }
+]

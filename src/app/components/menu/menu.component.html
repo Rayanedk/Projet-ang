@@ -1,0 +1,36 @@
+<section class="section" *ngIf="restaurant">
+  <div class="hero">
+    <div>
+      <h2>{{ restaurant.name }}</h2>
+      <p>{{ restaurant.description }}</p>
+      <div class="tags">
+        <span class="chip">{{ restaurant.cuisine }}</span>
+        <span class="chip">⭐ {{ restaurant.rating }}</span>
+        <span class="chip">{{ restaurant.deliveryTime }}</span>
+      </div>
+    </div>
+    <img [src]="restaurant.image" alt="{{ restaurant.name }}">
+  </div>
+
+  <div class="categories">
+    <div class="category" *ngFor="let group of grouped">
+      <div class="cat-header">
+        <h3>{{ group.category }}</h3>
+        <mat-divider></mat-divider>
+      </div>
+      <div class="dishes">
+        <mat-card *ngFor="let dish of group.items" class="dish-card">
+          <img mat-card-image [src]="dish.image" [alt]="dish.name">
+          <mat-card-content>
+            <h4>{{ dish.name }}</h4>
+            <p>{{ dish.description }}</p>
+            <div class="price-row">
+              <span class="price">{{ dish.price | currency:'CAD':'symbol':'1.0-2' }}</span>
+              <button mat-flat-button color="primary" class="gold-btn" (click)="add(dish)">Ajouter au panier</button>
+            </div>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</section>

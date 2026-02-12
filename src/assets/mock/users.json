@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Alice Client", "email": "alice@example.com", "password": "secret", "role": "CLIENT" },
+  { "id": 2, "name": "Bob Chef", "email": "bob@example.com", "password": "secret", "role": "RESTAURATEUR" },
+  { "id": 3, "name": "Aminata Admin", "email": "admin@example.com", "password": "secret", "role": "ADMIN" },
+  { "id": 4, "name": "Lamine Livreur", "email": "livreur@example.com", "password": "secret", "role": "LIVREUR" }
+]

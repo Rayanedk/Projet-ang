@@ -1,0 +1,14 @@
+.section {
+  padding: 32px;
+}
+
+h2 {
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}

@@ -1,0 +1,43 @@
+.section {
+  padding: 32px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.06);
+}
+
+table {
+  width: 100%;
+}
+
+input {
+  width: 64px;
+  padding: 4px 6px;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.total {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+  margin-top: 12px;
+  font-size: 18px;
+}
+
+.confirm {
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 14px;
+}
+
+.gold-btn {
+  border-radius: 999px;
+  background: linear-gradient(135deg, #d4af37, #f2d680);
+  color: #1e1e1e;
+  box-shadow: 0 10px 20px rgba(212, 175, 55, 0.25);
+}

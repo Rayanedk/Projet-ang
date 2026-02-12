@@ -1,0 +1,84 @@
+.section {
+  padding: 32px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+  align-items: center;
+  margin-bottom: 24px;
+  background: #fff;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.08);
+}
+
+.hero img {
+  width: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+.tags {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.chip {
+  background: #f1f5f9;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.categories {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.category {
+  background: #fff;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.06);
+}
+
+.cat-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.dishes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.dish-card {
+  border-radius: 16px;
+}
+
+.price-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.price {
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.gold-btn {
+  border-radius: 999px;
+  padding: 6px 14px;
+  background: linear-gradient(135deg, #d4af37, #f2d680);
+  color: #1e1e1e;
+  box-shadow: 0 10px 20px rgba(212, 175, 55, 0.25);
+}

@@ -1,0 +1,71 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  height: 70px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 18px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  gap: 16px;
+}
+
+.nav-left {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-center a {
+  position: relative;
+  font-weight: 600;
+  text-decoration: none;
+  color: #1e1e1e;
+  padding: 6px 4px;
+}
+
+.nav-center a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: #d4af37;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 160ms ease;
+}
+
+.nav-center a:hover::after,
+.nav-center a.active::after {
+  transform: scaleX(1);
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+button[mat-icon-button] mat-icon {
+  font-size: 22px;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0 12px;
+    gap: 12px;
+    height: 64px;
+  }
+  .nav-left {
+    font-size: 18px;
+  }
+  .nav-right {
+    gap: 8px;
+  }
+}
